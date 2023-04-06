@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sekou S Seh</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Software developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sehsekou98" alt="sehsekou98" /></a> </p>
 - 🔭 I’m currently working on **Freelancer**
 
-- 💬 Ask me about **Html5 css3 javascript react.js**
+- 💬 Ask me about **Java SpringBoot Git Html5 css3 javascript react.js**
 
 - 📫 How to reach me **sehsekou98@gmail.com**
 
