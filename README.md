@@ -1,4 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+[![GitHub followers](https://img.shields.io/github/followers/sehsekou98?style=social)](https://github.com/sehsekou98)
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sekou!;" />
@@ -20,7 +21,7 @@
 
  </div>
  <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:sehsekou98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
@@ -35,14 +36,13 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,kafka,postgres,mysql,react,nextjs,tailwindcss,git,github" /><br>
+</div>
 
 <br/>
 <hr/>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -51,6 +51,7 @@
   
   <br/><br/><br/>
 </div>
+
 
 <hr/>
 
