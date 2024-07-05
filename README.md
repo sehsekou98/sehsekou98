@@ -10,11 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working as **a freelancer**
- 
- 🌱 I’m currently learning **Docker, Kafka, AWS**
+ 🔭 I’m currently working as **Exploring the tech world**
 
-💬 Ask me about **Java, Springboot, Mysql... or anything.
+💬 Ask me about **Java, Springboot, Spring Cloud, Spring Microservice, Mysql, Kafka, Spring Security, Docker, Kubernetes, CI/CD.
 
 ⚡ Fun fact **Why do Java developers wear glasses? Because they can't "C#" without them.**
 
